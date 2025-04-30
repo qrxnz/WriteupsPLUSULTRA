@@ -1,3 +1,6 @@
 [submodule "tools/re-pwn/qrack"]
 	path = tools/re-pwn/qrack
 	url = https://github.com/qrxnz/qrack.git
+[submodule "tools/re-pwn/embe221ed-scripts"]
+	path = tools/re-pwn/embe221ed-scripts
+	url = https://github.com/qrxnz/embe221ed-scripts.git
