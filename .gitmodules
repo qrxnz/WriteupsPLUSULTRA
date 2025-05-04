@@ -7,3 +7,6 @@
 [submodule "tools/cryptography/mRemoteNG_password_decrypt"]
 	path = tools/cryptography/mRemoteNG_password_decrypt
 	url = https://github.com/qrxnz/mRemoteNG_password_decrypt.git
+[submodule "tools/hardware/bletools"]
+	path = tools/hardware/bletools
+	url = https://github.com/qrxnz/bletools.git
