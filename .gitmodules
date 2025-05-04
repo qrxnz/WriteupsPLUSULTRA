@@ -10,3 +10,6 @@
 [submodule "tools/hardware/bletools"]
 	path = tools/hardware/bletools
 	url = https://github.com/qrxnz/bletools.git
+[submodule "tools/stego-forensics/stego-toolkit-nix"]
+	path = tools/stego-forensics/stego-toolkit-nix
+	url = https://github.com/qrxnz/stego-toolkit-nix.git
