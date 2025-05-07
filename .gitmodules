@@ -13,3 +13,9 @@
 [submodule "tools/stego-forensics/stego-toolkit-nix"]
 	path = tools/stego-forensics/stego-toolkit-nix
 	url = https://github.com/qrxnz/stego-toolkit-nix.git
+[submodule "tools/hardware/pyjtagbs"]
+	path = tools/hardware/pyjtagbs
+	url = https://github.com/colinoflynn/pyjtagbs.git
+[submodule "tools/hardware/chipwhisperer"]
+	path = tools/hardware/chipwhisperer
+	url = https://github.com/newaetech/chipwhisperer.git
