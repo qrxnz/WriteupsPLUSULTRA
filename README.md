@@ -2,7 +2,7 @@
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Writeups](#writeups)
+- [CTFs](#ctfs)
   - [Vulnlab](#vulnlab)
     - [Machines](#machines)
       - [Easy](#easy)
@@ -11,7 +11,7 @@
 
 <!-- TOC --><a name="writeups"></a>
 
-## Writeups
+## CTFs
 
 <!-- TOC --><a name="vulnlab"></a>
 
