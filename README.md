@@ -1,4 +1,4 @@
-# CTFs
+# Wubba Lubba dub-dub
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
