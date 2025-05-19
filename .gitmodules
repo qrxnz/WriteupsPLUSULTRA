@@ -19,3 +19,6 @@
 [submodule "tools/hardware/chipwhisperer"]
 	path = tools/hardware/chipwhisperer
 	url = https://github.com/newaetech/chipwhisperer.git
+[submodule "tools/web/weevely"]
+	path = tools/web/weevely
+	url = https://github.com/qrxnz/weevely3
